@@ -1,0 +1,6 @@
+{
+  "name": "SocialStoryViewer - Anonymous Public Story & Profile Viewer",
+  "description": "Customizable web portal to view public Facebook stories, reels, and profiles anonymously without login, with real-time UI theme customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
